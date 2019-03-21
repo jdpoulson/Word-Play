@@ -1,10 +1,21 @@
 .mysentence {
   color: orange;
-  border-left: 23px
+  border: 10px;
+  margin: 10px;
+  padding: 10px;
+  float: left;
 }
 #sentence {
-  color: gold
+  color: gold;
+  border: 10px;
+  margin: 10px;
+  padding: 10px;
+  float: none;
 }
 h1 {
-  color: magenta
+  color: magenta;
+  border: 10px;
+  margin: 10px;
+  padding: 10px;
+  float: none;
 }
